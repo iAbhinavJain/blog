@@ -5,8 +5,6 @@ description: "Learn how to save HTML form submissions to google sheets for free 
 date: 2024-02-29
 ---
 
-### Save HTML Form Responses to Google Sheets
-
 Have you ever thought of saving HTML form responses to a Google Sheets document? Yes, email alerts for form submissions are cool, but how about we have them stored in a Google Sheet which will update in real-time? How cool would that be?
 ![](https://cdn-images-1.medium.com/max/1000/1*Uhs98bTYSy_c8PqKsEoyfQ.png)
 Well, this is exactly what we are going to do in today’s tutorial. So sit back, relax and get ready to do some typing as we go through the guide together. But wait a minute, before we do, let us take a look at What could be the use cases for saving form responses in Google Sheets?
@@ -33,6 +31,7 @@ It’s quick, easy and simple, here are the steps that you need to follow:
 -   First of all, go to [**Google Sheets**](https://sheets.google.com/) and create a new Sheet, you can name your file anything. I am going to call it HTML Form Responses.
 -   Now, let’s create headers for the columns or fields which we would have in our form, let’s also add a Date as the first column.  
     For this example, I am creating a simple form with First & Last Name, Email and Query. Here’s what my spreadsheet header looks like:
+![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*IRL46LsBzupsN2RDYmE04A.png)
 -   Once that’s done, go to **Extensions -> Apps Script**. Let’s call this script something like ‘Capturing Form Enquiries’.
 -   Simply copy the following code and paste it in the script:
 
