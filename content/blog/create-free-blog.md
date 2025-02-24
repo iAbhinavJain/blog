@@ -31,7 +31,7 @@ Before we get started, make sure you have:
     
 -   [**NPM**](https://www.npmjs.com/) and [**Node JS**](https://nodejs.org/en): Node JS is a javascript runtime environment and NPM is a package manager we would be using. For my fellow web developers, feel free to use Yarn or Webpack if you like.
     
--   **Custom Domain** (Optional) : If you would like to have your blog on a custom domain (like alexui.com), you would need a custom domain which is often paid.  
+-   **Custom Domain** (Optional) : If you would like to have your blog on a custom domain (like iabhinavj.com), you would need a custom domain which is often paid.  
       
     > **Tip:** Did you know that if you are in school, you can get a free .me domain along with various resources using the [**GitHub Student Developer Pack**](https://education.github.com/pack)? Just click on the link and sign up with your edu email.
     
