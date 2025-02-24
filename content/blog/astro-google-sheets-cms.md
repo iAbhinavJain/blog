@@ -607,8 +607,7 @@ const book = books.find(b => b.slug === Astro.params.slug);
 
 There you have it a decently designed, fully working website with just google sheets and Astro JS. You can also fork (and possibly star) the github repository:
 
-[**GitHub - iAbhinavJain/astro-book: A Project build for Tutorial on How to Build a Serverless…**  
-_A Project build for Tutorial on How to Build a Serverless Astro.js Website with Google Sheets as a Database (Free &…_github.com](https://github.com/iAbhinavJain/astro-book "https://github.com/iAbhinavJain/astro-book")[](https://github.com/iAbhinavJain/astro-book)
+[**GitHub - iAbhinavJain/astro-book: A Project build for Tutorial on How to Build a Serverless…**](https://github.com/iAbhinavJain/astro-book)
 
 ---
 
