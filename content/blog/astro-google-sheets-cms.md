@@ -22,7 +22,7 @@ In this guide, we’ll build a **serverless website** powered by **Astro JS and 
 
 We are creating a **fully serverless Astro.js website** that fetches data from Google Sheets and displays it dynamically. This example will use a **book collection** to demonstrate how structured data from a Google Sheet can be transformed into a functional, paginated website.
 
-[![Site Preview](https://img.youtube.com/vi/haGB5XBDacs/0.jpg)](https://www.youtube.com/watch?v=haGB5XBDacs)
+[Watch Video](https://www.youtube.com/watch?v=haGB5XBDacs)
 
 [View the Live Demo Site](https://sheet-book.pages.dev/)
 
